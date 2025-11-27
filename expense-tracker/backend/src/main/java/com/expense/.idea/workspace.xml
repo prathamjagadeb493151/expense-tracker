@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bacd6f5-0c59-4ae6-ba36-ddb88b0d3085" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/WiredTiger" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/WiredTiger.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/WiredTiger.turtle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/WiredTiger.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/WiredTigerHS.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/_mdb_catalog.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/collection-0-8211011508313908615.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/collection-2-8211011508313908615.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/collection-4-8211011508313908615.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/diagnostic.data/metrics.2025-03-04T14-13-09Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/diagnostic.data/metrics.2025-03-04T14-27-31Z-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/index-1-8211011508313908615.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/index-3-8211011508313908615.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/index-5-8211011508313908615.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/index-6-8211011508313908615.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/journal/WiredTigerLog.0000000002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/journal/WiredTigerPreplog.0000000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/mongod.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/sizeStorer.wt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../db/storage.bson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/expense.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExpenseTrackerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/ExpenseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/ExpenseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/ExpenseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/classes/com/expense/ExpenseTrackerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/classes/com/expense/controller/ExpenseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/classes/com/expense/model/Expense.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/classes/com/expense/repository/ExpenseRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/classes/com/expense/service/ExpenseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/expense-tracker-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/expense-tracker-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../frontend/expensoo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../frontend/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../frontend/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../frontend/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="356fr9LUqgfLrAEXt0mwhFCHhZg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bacd6f5-0c59-4ae6-ba36-ddb88b0d3085" name="Changes" comment="" />
+      <created>1762435639952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762435639952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
